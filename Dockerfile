@@ -7,8 +7,8 @@ RUN apk update && apk add jq && apk add curl && apk add bash
 ADD target/pontoon-0.0.1-SNAPSHOT-fat.jar /service.jar
 #ADD cluster.xml /cluster.xml
 
-RUN mkdir /realm
-ADD realm /opt/realm
+#RUN mkdir /realm
+#ADD realm /opt/realm
 ADD docker-entrypoint.sh /docker-entrypoint.sh
 
 WORKDIR /
