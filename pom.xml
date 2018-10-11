@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pontoon</name>
 	<properties>
-		<qwanda-utils.version>1.0.57</qwanda-utils.version>
+		<qwanda-utils.version>1.0.59</qwanda-utils.version>
 		<log4j-core-version>2.5</log4j-core-version>
 	</properties>
 	<dependencies>
