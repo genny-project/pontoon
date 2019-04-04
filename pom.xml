@@ -7,7 +7,7 @@
 
 	<version>2.1.0</version>
 
-	<name>bridge</name>
+	<name>pontoon</name>
 	<properties>
 		<qwanda-utils.version>${version}</qwanda-utils.version>
 		<log4j-core-version>2.5</log4j-core-version>
