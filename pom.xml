@@ -12,7 +12,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>life.genny</groupId>
-			<artifactId>genny-verticle</artifactId>
+			<artifactId>genny-verticle-rules</artifactId>
 			<version>${qwanda-utils.version}</version>
 		</dependency>
 		<dependency>
