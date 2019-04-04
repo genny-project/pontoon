@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>life.genny</groupId>
 	<artifactId>pontoon</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>2.1.0</version>
 	<name>pontoon</name>
 	<properties>
-		<qwanda-utils.version>1.0.64</qwanda-utils.version>
+		<qwanda-utils.version>2.1.0</qwanda-utils.version>
 		<log4j-core-version>2.5</log4j-core-version>
 	</properties>
 	<dependencies>
